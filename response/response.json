@@ -1,0 +1,19 @@
+{
+  "id": "cmpl-6x9yE5ipFb90agj6y4s6GMpAMCDqJ",
+  "object": "text_completion",
+  "created": 1679557698,
+  "model": "text-davinci-003",
+  "choices": [
+    {
+      "text": "\n\nDart is an open-source, general-purpose programming language developed by Google. It is used to build applications for web, server, mobile, and desktop. Dart is designed to be easy to learn, fast, and scalable. It can be used to create modern web applications, with features such as tree-shaking, ahead-of-time compilation, and hot reloading. Additionally, it can be used to build high-performance mobile applications that target both iOS and Android.",
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3,
+    "completion_tokens": 100,
+    "total_tokens": 103
+  }
+}
